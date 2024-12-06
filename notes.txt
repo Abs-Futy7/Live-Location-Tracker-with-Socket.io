@@ -1,0 +1,8 @@
+1. Go Leaflet CDN Js CSS, which gives the interactive map feeling, use link in index.ejs file
+
+2. Go socket.io cdn client install and paste the script code in index.ejs
+   https://socket.io/docs/v4/client-installation/
+
+
+3.
+
